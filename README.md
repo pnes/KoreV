@@ -57,5 +57,5 @@ All compatibility is achieved through original implementation and public interfa
 
 ## 📬 Contact
 
-For questions or discussions, please open an issue or contact [your GitHub username or contact info].
+For questions or discussions, please open an issue or contact [contact@korev.com].
 
